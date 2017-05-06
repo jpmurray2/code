@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1494098283 source:/home/jonathan/code/Hello_World/src/Hello_World.cpp
+	"Hello_World.h"
+
+1494099089 source:/home/jonathan/code/Hello_World/main.cpp
+	<iostream>
+	"Hello_World.h"
+
